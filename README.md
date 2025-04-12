@@ -11,9 +11,6 @@
   <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
 
-
-
-
 </div>
   
   ##
@@ -22,5 +19,13 @@
   <a href = "mailto:brunopietro167@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/bruno-di-pietro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+
+##
+
+<div align=center> 
+
+<img src="https://raw.githubusercontent.com/bdpietroo/bdpietroo/output/snake.svg" alt="Snake animation" />
+
 </div>
 
