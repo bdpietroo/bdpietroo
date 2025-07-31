@@ -1,6 +1,6 @@
 # Bruno Di Pietro
 
-Sou um desenvolvedor de software movido pela curiosidade e pelo compromisso contínuo com aprendizado e evolução. Priorizar a escrita de código limpo, eficiente e reutilizável faz parte da minha rotina, sempre guiado pelas boas práticas de desenvolvimento. Valorizo a colaboração, a troca de ideias e o compartilhamento de conhecimento com colegas e amigos da área. Atualmente, estou aprofundando meus estudos no ecossistema Java, explorando suas ferramentas e potencial para criar soluções robustas e escaláveis.
+Sou desenvolvedor back-end com experiência em Python e Django. Procuro aplicar meus conhecimentos em lógica de programação, testes automatizados e bancos de dados relacionais em projetos que me desafiem e me façam evoluir. Tenho facilidade para aprender, sou curioso, proativo e tenho facilidade de aprender e me adaptar.
 
 ---
 <div>
