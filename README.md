@@ -5,6 +5,6 @@ Sou desenvolvedor back-end com experiência em Python e Django. Procuro aplicar 
 ---
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,django,postgresql,mysql,docker,html,css,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgresql,mysql,docker,html,css,postman,git)](https://skillicons.dev)
   
 </div>
