@@ -1,6 +1,6 @@
 # Bruno Di Pietro
 
-Sou desenvolvedor back-end com experiência em Python e Django. Procuro aplicar meus conhecimentos em lógica de programação, testes automatizados e bancos de dados relacionais em projetos que me desafiem e me façam evoluir. Tenho facilidade para aprender, sou curioso, proativo e tenho facilidade de aprender e me adaptar.
+Sou desenvolvedor júnior com foco em backend e automações. Gosto de criar soluções simples para problemas reais. Trabalho principalmente com Python, Node.js, PostgreSQL, Docker, APIs e n8n. Gosto de aprender construindo, testando e melhorando soluções reais.
 
 ---
 <div>
