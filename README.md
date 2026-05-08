@@ -1,6 +1,6 @@
 # Bruno Di Pietro
 
-Sou desenvolvedor júnior com foco em backend e automações. Gosto de criar soluções simples para problemas reais. Trabalho principalmente com Python, Node.js, PostgreSQL, Docker, APIs e n8n. Gosto de aprender construindo, testando e melhorando soluções reais.
+Sou desenvolvedor júnior com foco em backend, automação de processos, integrações entre sistemas e criação de soluções internas. Trabalho principalmente com Python, Node.js, PostgreSQL, Docker, APIs e n8n. Gosto de aprender construindo, testando e melhorando soluções reais.
 
 ---
 <div>
