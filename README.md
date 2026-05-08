@@ -5,6 +5,6 @@ Sou desenvolvedor júnior com foco em backend e automações. Gosto de criar sol
 ---
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgresql,mysql,docker,html,css,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,django,fastapi,postgresql,mysql,linux,docker,html,css,postman,git,aws)](https://skillicons.dev)
   
 </div>
