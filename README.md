@@ -13,16 +13,12 @@ Trabalho principalmente com Python, FastAPI, Node.js, PostgreSQL, Docker e n8n, 
 
 ### Backend e APIs
 
-[![Backend e APIs](https://skillicons.dev/icons?i=python,fastapi,django,nodejs,postgres)](https://skillicons.dev)
+[![Backend e APIs](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,django,nodejs,postgresql&theme=dark)](https://github.com/LelouchFR/skill-icons)
 
 ### Automação e IA
 
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-<br>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate">
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
+[![Automação e IA](https://go-skill-icons.vercel.app/api/icons?i=n8n,powerautomate,chatgpt,bash&theme=dark)](https://github.com/LelouchFR/skill-icons)
 
 ### Infraestrutura e ferramentas
 
-[![Infraestrutura e ferramentas](https://skillicons.dev/icons?i=docker,linux,aws,git)](https://skillicons.dev)
+[![Infraestrutura e ferramentas](https://go-skill-icons.vercel.app/api/icons?i=docker,linux,aws,git&theme=dark)](https://github.com/LelouchFR/skill-icons)
