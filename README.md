@@ -9,8 +9,20 @@ Trabalho principalmente com Python, FastAPI, Node.js, PostgreSQL, Docker e n8n, 
 🤖 **Interesses:** Inteligência artificial aplicada e dados
 
 ---
-<div>
+## Tecnologias e ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,django,fastapi,postgresql,mysql,linux,docker,html,css,postman,git,aws)](https://skillicons.dev)
-  
-</div>
+### Backend e APIs
+
+[![Backend e APIs](https://skillicons.dev/icons?i=python,fastapi,django,nodejs,postgres)](https://skillicons.dev)
+
+### Automação e IA
+
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+<br>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate">
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
+
+### Infraestrutura e ferramentas
+
+[![Infraestrutura e ferramentas](https://skillicons.dev/icons?i=docker,linux,aws,git)](https://skillicons.dev)
