@@ -1,6 +1,8 @@
 # Bruno Di Pietro
 
-Sou desenvolvedor com foco em backend, automação de processos, integrações entre sistemas e criação de soluções internas. Trabalho principalmente com Python, Node.js, PostgreSQL, Docker, APIs e n8n. Gosto de aprender construindo, testando e melhorando soluções reais.
+Sou desenvolvedor backend com foco em automação de processos, criação de APIs e integração entre sistemas.
+
+Trabalho principalmente com Python, FastAPI, Node.js, PostgreSQL, Docker e n8n, desenvolvendo soluções que conectam serviços, organizam dados e reduzem tarefas manuais. Também tenho interesse em inteligência artificial aplicada e em transformar problemas reais em ferramentas simples, funcionais e bem estruturadas.
 
 ---
 <div>
