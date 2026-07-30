@@ -9,7 +9,7 @@ Trabalho principalmente com Python, FastAPI, Node.js, PostgreSQL, Docker e n8n, 
 🤖 **Interesses:** Inteligência artificial aplicada e dados
 
 ---
-## Tecnologias e ferramentas
+## 🧰 Tecnologias e ferramentas
 
 ### Backend e APIs
 
