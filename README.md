@@ -1,4 +1,4 @@
-# Bruno Di Pietro 👋
+# Bruno Di Pietro 👋👋
 
 Sou desenvolvedor backend com foco em automação de processos, criação de APIs e integração entre sistemas.
 
