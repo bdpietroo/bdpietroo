@@ -27,7 +27,9 @@ Trabalho principalmente com Python, FastAPI, Node.js, PostgreSQL, Docker e n8n, 
     />
   </a>
 </p>
+
 ---
+
 ## 🧰 Stack e ferramentas
 
 ### ⚙️ Backend e APIs
