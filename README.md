@@ -9,12 +9,9 @@ Trabalho principalmente com Python, FastAPI, Node.js, PostgreSQL, Docker e n8n, 
 🤖 **Interesses:** Inteligência artificial aplicada e dados
 
 <p>
-  <a
-    href="https://www.linkedin.com/in/bruno-di-pietro/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+  <a href="https://www.linkedin.com/in/bruno-di-pietro/">
     <img
+      height="22"
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
@@ -22,6 +19,7 @@ Trabalho principalmente com Python, FastAPI, Node.js, PostgreSQL, Docker e n8n, 
 
   <a href="mailto:brunopietro167@gmail.com">
     <img
+      height="22"
       src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white"
       alt="E-mail"
     />
