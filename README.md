@@ -8,17 +8,32 @@ Trabalho principalmente com Python, FastAPI, Node.js, PostgreSQL, Docker e n8n, 
 💻 **Foco:** Backend, automação, APIs e integrações  
 🤖 **Interesses:** Inteligência artificial aplicada e dados
 
----
-## 🧰 Tecnologias e ferramentas
+<p>
+  <a href="https://www.linkedin.com/in/bruno-di-pietro/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:brunopietro167@gmail.com">
+    <img
+      src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="E-mail"
+    />
+  </a>
+</p>
 
-### Backend e APIs
+---
+## 🧰 Stack e ferramentas
+
+### ⚙️ Backend e APIs
 
 [![Backend e APIs](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,django,nodejs,postgresql&theme=dark)](https://github.com/LelouchFR/skill-icons)
 
-### Automação e IA
+### 🤖 Automação e IA
 
 [![Automação e IA](https://go-skill-icons.vercel.app/api/icons?i=n8n,powerautomate,chatgpt,bash&theme=dark)](https://github.com/LelouchFR/skill-icons)
 
-### Infraestrutura e ferramentas
+### ☁️ Infraestrutura e ferramentas
 
 [![Infraestrutura e ferramentas](https://go-skill-icons.vercel.app/api/icons?i=docker,linux,aws,git&theme=dark)](https://github.com/LelouchFR/skill-icons)
